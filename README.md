@@ -14,12 +14,12 @@ pip install pygame
 ### Installation
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/Sajith-S15/skywardquest.py.git
+git clone https://github.com/Sajith-S15/skywardquest.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd skywardquest.py
+cd skywardquest
 ```
 3. Run the game:
 
